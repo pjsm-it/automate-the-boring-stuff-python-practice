@@ -5,6 +5,9 @@ This repository contains Python scripts and exercises inspired by the book
 provide the initial inspiration, all implementations are written by me and 
 attempt to be distinct from the original examples to avoid copyright issues.
 
+Some basic examples in this repository are taken directly from the book for 
+learning purposes, but any modifications or extensions are my own work.
+
 ## Purpose
 
 - Document my learning process and progress while studying Python.
