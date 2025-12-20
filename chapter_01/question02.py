@@ -1,2 +1,0 @@
-# spam -> variable
-# 'spam' -> string
