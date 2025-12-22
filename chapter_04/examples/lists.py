@@ -25,3 +25,14 @@ print(spam)
 print()
 del spam[-1]
 print(spam)
+
+print()
+supplies = ['pens', 'staplers', 'flame-throwers', 'binders']
+for i in range(len(supplies)):
+    print('Index ' + str(i) + ' in supplies is: ' + supplies[i])
+
+print()
+greetings = ['helo', 'hi', 'howdy', 'heyas']
+
+print('howdy' in greetings)
+print('cat' not in greetings)
