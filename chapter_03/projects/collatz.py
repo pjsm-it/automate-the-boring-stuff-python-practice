@@ -8,7 +8,13 @@ def collatz(number):
 
 
 def run_collatz_sequence():
-    number = int(input("Enter an integer: "))
+    while True:
+        try:
+            number = int(input("Enter an integer: "))
+            break
+        except ValueError:
+            print("Please enter a valid integer.")
+
     while number != 1:
         number = collatz(number)
 
