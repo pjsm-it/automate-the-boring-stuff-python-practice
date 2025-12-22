@@ -1,0 +1,2 @@
+# List concatenation -> +
+# List replicatioin -> *
